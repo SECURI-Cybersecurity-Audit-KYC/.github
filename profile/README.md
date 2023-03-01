@@ -13,13 +13,13 @@ Request: http://t.me/securi_lab
   
 
 <h4>
-    <a href="https://github.com/Louis3797/awesome-readme-template/">Website</a>
+    <a href="https://securi-lab.com/">Website</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
+    <a href="https://twitter.com/SECURI_LAB">Twitter</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Report Bug</a>
+    <a href="https://t.me/securi_lab">Telegram</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
+    <a href="https://medium.com/@securi">Blog</a>
   </h4>
 </div>
 
