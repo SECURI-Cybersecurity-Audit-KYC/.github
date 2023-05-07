@@ -26,7 +26,8 @@ Request: http://t.me/securi_lab
 <br />
 Our Service
 
-![Request audit (12)](https://user-images.githubusercontent.com/111109564/222057284-df6f716a-4f31-4f24-86e0-5bc21c71994b.png)
+![New Audit Badge (2)](https://user-images.githubusercontent.com/111109564/236653904-0f377a78-dda2-443d-bb54-198e3d33e8d9.png)
+
 
 ![Request audit (13)](https://user-images.githubusercontent.com/111109564/222057642-c3ef86f1-74ac-476e-98d1-75c03bc1ce04.png)
 
