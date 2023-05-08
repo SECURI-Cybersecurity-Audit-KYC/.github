@@ -1,7 +1,8 @@
 <div align="center">
 
   
-  ![SECURI LAB Org](https://user-images.githubusercontent.com/111109564/222056376-ab134048-14ee-46d6-8bcb-16f11eede1fe.png)
+![SECURI LAB About](https://user-images.githubusercontent.com/111109564/236715929-1ad8c3e6-aa64-4862-8789-7c2367381bbd.png)
+
 
   <h1>SECURI LAB (Thailand)</h1>
   
