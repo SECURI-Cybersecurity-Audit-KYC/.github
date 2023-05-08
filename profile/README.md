@@ -30,6 +30,8 @@ Our Service
 ![New Audit Badge (2)](https://user-images.githubusercontent.com/111109564/236653904-0f377a78-dda2-443d-bb54-198e3d33e8d9.png)
 
 
-![Request audit (13)](https://user-images.githubusercontent.com/111109564/222057642-c3ef86f1-74ac-476e-98d1-75c03bc1ce04.png)
+![KYB](https://user-images.githubusercontent.com/111109564/236716298-bfeaf50b-d7a5-4509-936c-c3f555c07dcb.png)
+
+
 
 
