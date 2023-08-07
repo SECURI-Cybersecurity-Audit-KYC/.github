@@ -16,11 +16,11 @@ Request: http://t.me/securi_lab
 <h4>
     <a href="https://securi-lab.com/">Website</a>
   <span> · </span>
-    <a href="https://twitter.com/SECURI_LAB">Twitter</a>
+    <a href="https://twitter.com/scrl_io">Twitter</a>
   <span> · </span>
-    <a href="https://t.me/securi_lab">Telegram</a>
+    <a href="https://t.me/scrl_io">Telegram</a>
   <span> · </span>
-    <a href="https://medium.com/@securi">Blog</a>
+    <a href="https://scrl.medium.com">Blog</a>
   </h4>
 </div>
 
