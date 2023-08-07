@@ -4,11 +4,11 @@
 ![SECURI LAB About](https://user-images.githubusercontent.com/111109564/236715929-1ad8c3e6-aa64-4862-8789-7c2367381bbd.png)
 
 
-  <h1>SECURI LAB (Thailand)</h1>
+  <h1>SCRL (Thailand)</h1>
   
   <p>
     Cyber security experts. Our services include cyber security, smart contract security audits, and KYC.
-Request: http://t.me/securi_lab
+Request: https://t.me/scrl_io
   </p>
   
   
