@@ -1,7 +1,8 @@
 <div align="center">
 
   
-![SECURI LAB About](https://user-images.githubusercontent.com/111109564/236715929-1ad8c3e6-aa64-4862-8789-7c2367381bbd.png)
+![Website SEO Image (5)](https://github.com/SECURI-Cybersecurity-Audit-KYC/.github/assets/111109564/62055eb9-ac9f-46fa-99b1-1a697264933f)
+
 
 
   <h1>SCRL (Thailand)</h1>
