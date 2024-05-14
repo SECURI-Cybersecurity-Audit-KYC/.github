@@ -1,7 +1,8 @@
 <div align="center">
 
   
-![Website SEO Image (5)](https://github.com/SECURI-Cybersecurity-Audit-KYC/.github/assets/111109564/62055eb9-ac9f-46fa-99b1-1a697264933f)
+![Smart Contract Audit](https://github.com/SECURI-Cybersecurity-Audit-KYC/.github/assets/111109564/430e9918-7d9c-4d9a-b5ed-bfd2f8c15b97)
+
 
 
 
@@ -26,12 +27,6 @@ Request: https://t.me/scrl_io
 </div>
 
 <br />
-Our Service
-
-![New Audit Badge (2)](https://user-images.githubusercontent.com/111109564/236653904-0f377a78-dda2-443d-bb54-198e3d33e8d9.png)
-
-
-![KYB](https://user-images.githubusercontent.com/111109564/236716298-bfeaf50b-d7a5-4509-936c-c3f555c07dcb.png)
 
 
 
